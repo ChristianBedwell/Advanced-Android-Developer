@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppWidgetSample</string>
+    <string name="activity_text">All the functionality for this app is in the app widget.</string>
+    <string name="widget_id_label">Widget ID</string>
+    <string name="widget_update_label">Last Updated</string>
+    <string name="widget_button_update">Update now</string>
+    <string name="date_count_format">%1$d @%2$s</string>
+</resources>
