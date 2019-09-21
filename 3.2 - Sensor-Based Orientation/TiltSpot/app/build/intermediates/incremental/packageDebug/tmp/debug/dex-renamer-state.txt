@@ -1,0 +1,4 @@
+#Sat Sep 21 12:58:05 EDT 2019
+base.0=C\:\\Users\\chris\\StudioProjects\\TiltSpot_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
