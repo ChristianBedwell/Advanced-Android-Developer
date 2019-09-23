@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שוער ציון</string>
+    <string name="minus">-</string>
+    <string name="initial_count">0</string>
+    <string name="plus">+</string>
+    <string name="team_1">קְבוּצָה 1</string>
+    <string name="team_2">קְבוּצָה 2</string>
+    <string name="night_mode">מצב לילה</string>
+    <string name="day_mode">מצב היום</string>
+</resources>

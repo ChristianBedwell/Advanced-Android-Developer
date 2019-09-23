@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Punte telling Keeper</string>
+    <string name="minus">-</string>
+    <string name="initial_count">0</string>
+    <string name="plus">+</string>
+    <string name="team_1">span 1</string>
+    <string name="team_2">span 2</string>
+    <string name="night_mode">nag af</string>
+    <string name="day_mode">dag af</string>
+</resources>

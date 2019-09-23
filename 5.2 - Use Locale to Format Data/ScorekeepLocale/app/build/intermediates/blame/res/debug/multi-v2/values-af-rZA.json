@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\chris\\StudioProjects\\ScorekeepLocale\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af-rZA\\values-af-rZA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chris\\StudioProjects\\ScorekeepLocale\\app\\src\\main\\res\\values-af-rZA\\strings.xml",
+                    "from": {
+                        "startLines": "2,9,4,3,8,5,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,367,153,116,320,198,234,277",
+                        "endColumns": "57,43,43,35,45,34,41,41",
+                        "endOffsets": "110,406,192,147,361,228,271,314"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,157,201,237,283,318,360",
+                        "endColumns": "57,43,43,35,45,34,41,41",
+                        "endOffsets": "108,152,196,232,278,313,355,397"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chris\\StudioProjects\\ScorekeepLocale\\app\\src\\main\\res\\values-af-rZA\\styles.xml",
+                    "from": {
+                        "startLines": "3,10,28,19,13,42,37,48",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "95,422,1204,725,496,1880,1688,2125",
+                        "endLines": "8,11,35,26,17,46,40,52",
+                        "endColumns": "12,12,12,12,12,12,12,12",
+                        "endOffsets": "414,488,1680,1196,717,2117,1872,2363"
+                    },
+                    "to": {
+                        "startLines": "10,16,18,26,34,39,44,48",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "402,721,791,1265,1734,1956,2194,2380",
+                        "endLines": "15,17,25,33,38,43,47,52",
+                        "endColumns": "12,12,12,12,12,12,12,12",
+                        "endOffsets": "716,786,1260,1729,1951,2189,2375,2614"
+                    }
+                }
+            ]
+        }
+    ]
+}
